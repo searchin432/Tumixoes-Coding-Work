@@ -1,0 +1,16 @@
+      body{
+        background-color: black;
+      }
+     
+     .Login-container{
+        border: 10px solid blue;
+        max-width: 300px;
+        margin: 40px auto;
+        padding: 70px;
+        padding-bottom: 60px;
+        padding-top: 60px;
+        box-shadow: 0 0 10px rgb(251, 11, 255); 
+        color: rgb(117, 243, 7);
+     } 
+
+     
